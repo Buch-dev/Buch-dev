@@ -40,7 +40,7 @@ Check out my [blog](https://dev.to/dashboard) where I write about frontend devel
 You can find me on the following platforms:
 
 - [Portfolio](https://buch-dev.Github.io/Daniel-Okafor/)
-- [LinkedIn](https://linkedin.com/in/@buchcodx)
+- [LinkedIn](https://linkedin.com/mwlite/in/daniel-okafor-62277420a)
 - [Twitter](https://twitter.com/@bucheed)
 - [Email](bucheed@gmail.com)
 
