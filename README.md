@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# <Your Name>
+# Daniel OKafor
 
 ## Frontend Developer | UI/UX Enthusiast
 
@@ -13,6 +13,9 @@ Hello! I'm a passionate frontend developer with a keen interest in creating beau
 - JavaScript
 - React.js
 - Vue.js
+- Nextjs
+- Nuxtjs
+- Supabase
 - Bootstrap
 - SASS/SCSS
 - Responsive Web Design
@@ -20,28 +23,26 @@ Hello! I'm a passionate frontend developer with a keen interest in creating beau
 
 ### Projects
 
-- [Project 1](https://github.com/username/project-1): A description of your project, including technologies used and any notable features or challenges overcome.
+- [Project 1](https://github.com/Buch-dev/Scissors-App): A link shortener project using Nuxtjs, typescript, supabase (still in progress).
 
-- [Project 2](https://github.com/username/project-2): Briefly describe another project you've worked on, highlighting your contributions and achievements.
+- [Project 2](https://www.frontendmentor.io/profile/Buch-dev): Frontend Mentor projects, created using HTML, CSS, SCSS, Javascript.
 
 ### Open Source Contributions
 
-- [Contribution 1](https://github.com/username/repo-name/pulls): Describe your contribution to an open-source project, such as bug fixes, feature enhancements, or documentation updates.
-
-- [Contribution 2](https://github.com/username/repo-name/pulls): Briefly mention another open-source project you've contributed to, showcasing the impact of your work.
+- [Contribution 1](https://github.com/Buch-dev/Scissors-App): Worked on the user-interface of a web-applicationt places corpers in their preferred PPA (Primary Place of Assignment).
 
 ### Blog
 
-Check out my [blog](https://yourblogurl.com) where I write about frontend development, UI/UX best practices, and other interesting topics related to web development.
+Check out my [blog](https://dev.to/dashboard) where I write about frontend development, UI/UX best practices, and other interesting topics related to web development.
 
 ### Connect with Me
 
 You can find me on the following platforms:
 
-- [Portfolio](https://yourportfolio.com)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:youremail@example.com)
+- [Portfolio](https://buch-dev.Github.io/Daniel-Okafor/)
+- [LinkedIn](https://linkedin.com/in/@buchcodx)
+- [Twitter](https://twitter.com/@bucheed)
+- [Email](bucheed@gmail.com)
 
 Let's collaborate and build amazing web experiences together!
 
