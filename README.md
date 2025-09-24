@@ -20,12 +20,15 @@ Hello! I'm a passionate frontend developer with a keen interest in creating beau
 - SASS/SCSS
 - Responsive Web Design
 - Git
+- Nodejs
+- Expressjs
+- MongoDB
 
 ### Projects
 
-- [Project 1](https://github.com/Buch-dev/Scissors-App): A link shortener project using Nuxtjs, typescript, supabase (still in progress).
+- [Scoot](https://scoot-website-nine.vercel.app/): This project required me to build a fully multipage responsive website to the designs provided. I used Next.js, along with Tailwind CSS for styling. The project also required me to implement animations and transitions using GSAP.
 
-- [Project 2](https://www.frontendmentor.io/profile/Buch-dev): Frontend Mentor projects, created using HTML, CSS, SCSS, Javascript.
+- [Memory Game](https://memory-game-frontend-mentor.vercel.app/): This project required me to build a fully responsive memory game using React. I used CSS for styling and implemented the game logic using JavaScript. The game features a timer, score tracking, and a reset button.
 
 ### Open Source Contributions
 
@@ -39,8 +42,8 @@ Check out my [blog](https://dev.to/dashboard) where I write about frontend devel
 
 You can find me on the following platforms:
 
-- [Portfolio](https://buch-dev.Github.io/Daniel-Okafor/)
-- [LinkedIn](https://linkedin.com/mwlite/in/daniel-okafor-62277420a)
+- [Portfolio](https://my-website-l7bx.vercel.app/)
+- [LinkedIn](www.linkedin.com/in/buchcodx)
 - [Twitter](https://twitter.com/@bucheed)
 - [Email](bucheed@gmail.com)
 
