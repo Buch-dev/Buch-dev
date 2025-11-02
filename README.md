@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Daniel OKafor
+# Daniel Okafor
 
 ## Full-Stack Developer | Mobile Developer
 
