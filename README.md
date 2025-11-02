@@ -2,7 +2,7 @@
 
 # Daniel OKafor
 
-## Frontend Developer | UI/UX Enthusiast
+## Full-Stack Developer | Mobile Developer
 
 Hello! I'm a passionate frontend developer with a keen interest in creating beautiful and user-friendly web interfaces. I enjoy working with the latest web technologies and frameworks to build responsive and interactive websites. My goal is to create delightful digital experiences that leave a lasting impression.
 
